@@ -1,4 +1,4 @@
-Salut, mă numesc Vlas Ionuț și lucrez la portofoliul de proiecte personale, proiectul ăsta rezolvă o problemă personală cu care se confruntă toată lumea la un moment dat: cautarea unei locuințe, fie prin chirie sau prin cumpărare, iar ținta lui îi de a crea un portofoliu extins ce se actualizează cu anunțuri disponibile gratuit pe internet, cu ajutorul inteligenței artificiale. Este strict pentru uz personal, orice altă utilizare mi-ar aduce urmări legale.
+Salut, mă numesc **Vlas Ionuț** și lucrez la portofoliul de proiecte personale, proiectul ăsta rezolvă o problemă personală cu care se confruntă toată lumea la un moment dat: cautarea unei locuințe, fie prin chirie sau prin cumpărare, iar ținta lui îi de a crea un portofoliu extins ce se actualizează cu anunțuri disponibile gratuit pe internet, cu ajutorul inteligenței artificiale. Este strict pentru uz personal, orice altă utilizare mi-ar aduce urmări legale.
 Dacă îți place această idee te invit să explorezi proiectul.
 
 # Real-estate-rag
